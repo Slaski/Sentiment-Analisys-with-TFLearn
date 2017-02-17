@@ -1,6 +1,6 @@
 # Deep Learning Nanodegree Foundation
 
-## Sentiment Analisys with TFLearn
+## Sentiment Analysis with TFLearn
 
 In this project we shall predict the same problem in the [previous project](https://github.com/Slaski/Sentiment-Analisys-with-Andrew-Trask), where
 we had a dataset of positive and negative moview reviews, but his time using TFLearn instead of only numpy and pandas.
